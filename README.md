@@ -1,4 +1,4 @@
-# nodejs-ejs-starter-template
+# nodejs-starter-template-ejs
 
 Steps:
 1. npm init
