@@ -34,7 +34,7 @@ var urlencodedParser = bodyParser.urlencoded({ extended: true });
 //Setting the homepage or start page Route
 app.get('/', function (req, res) {
     // res.redirect('/');
-    res.render('pages/index', { title: "Online-Portal" });
+    res.render('pages/index');
 });
 
 app.listen(port, function () {
